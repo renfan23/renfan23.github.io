@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "XXX | 个人主页"
+title                    : "任帆 | 个人主页"
 title_separator          : "-"
-name                     : &name "XXX"
-description              : &description "XXX 的学术主页"
+name                     : &name "任帆"
+description              : &description "任帆的学术主页"
 url                      : https://renfan23.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,10 +24,10 @@ repository               : "renfan23/renfan23.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "XXX"
+  name             : "任帆"
   pronouns         : # example: "she/her"  
-  bio              : "XXX 的个人主页"
-  location         : "XXX单位"
+  bio              : "博士后｜医疗穿刺机器人、具身智能、灵巧操作"
+  location         : "北航具身智能机器人研究院、杭州北航国际创新研究院"
   employer         : 
   uri              : # URL
   email            : "renfan@buaa.edu.cn"
